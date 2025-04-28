@@ -1,6 +1,8 @@
-**TLOU Localization Tool**  
+#TLOU Localization Tool**  
 
 By: AliZ (Modified from the original script by NoobInCoding) 
+
+How To Use it :
 
 ### 1. **Export**  
 - Click **Export** to select a  Supported Files : (.subtitles , .common , .subtitles-systemic , .web).  
@@ -12,4 +14,4 @@ By: AliZ (Modified from the original script by NoobInCoding)
 
 
 ### Supported Games
-- **The Last of Us** (Part I & Part II)
+- **The Last of Us** (Part I & Part II).
