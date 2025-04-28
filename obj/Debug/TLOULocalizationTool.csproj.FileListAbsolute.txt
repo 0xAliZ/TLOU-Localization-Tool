@@ -1,0 +1,10 @@
+C:\Users\AliZ\source\repos\TLOULocalizationTool\bin\Debug\TLOULocalizationTool.exe.config
+C:\Users\AliZ\source\repos\TLOULocalizationTool\bin\Debug\TLOULocalizationTool.exe
+C:\Users\AliZ\source\repos\TLOULocalizationTool\bin\Debug\TLOULocalizationTool.pdb
+C:\Users\AliZ\source\repos\TLOULocalizationTool\obj\Debug\TLOULocalizationTool.csproj.AssemblyReference.cache
+C:\Users\AliZ\source\repos\TLOULocalizationTool\obj\Debug\TLOULocalizationTool.Form1.resources
+C:\Users\AliZ\source\repos\TLOULocalizationTool\obj\Debug\TLOULocalizationTool.Properties.Resources.resources
+C:\Users\AliZ\source\repos\TLOULocalizationTool\obj\Debug\TLOULocalizationTool.csproj.GenerateResource.cache
+C:\Users\AliZ\source\repos\TLOULocalizationTool\obj\Debug\TLOULocalizationTool.csproj.CoreCompileInputs.cache
+C:\Users\AliZ\source\repos\TLOULocalizationTool\obj\Debug\TLOULocalizationTool.exe
+C:\Users\AliZ\source\repos\TLOULocalizationTool\obj\Debug\TLOULocalizationTool.pdb
