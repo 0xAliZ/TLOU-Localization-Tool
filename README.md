@@ -1,6 +1,9 @@
+**TLOU Localization Tool**  
+
 By: AliZ (Modified from the original script by NoobInCoding) 
+
 ### 1. **Export**  
-- Click **Export** to select a file.  
+- Click **Export** to select a  Supported Files : (.subtitles , .common , .subtitles-systemic , .web).  
 - The file will be converted to .ids and .txt formats.
 
 ### 2. **Import**  
