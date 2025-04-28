@@ -1,4 +1,4 @@
-#TLOU Localization Tool**  
+#TLOU Localization Tool
 
 By: AliZ (Modified from the original script by NoobInCoding) 
 
